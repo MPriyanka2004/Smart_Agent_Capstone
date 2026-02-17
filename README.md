@@ -1,20 +1,20 @@
-# 🧠 Smart CPG Decision Support Agent
+# Smart CPG Decision Support Agent
 
 ### GenAI + Agentic AI + Databricks + Simulation Engine
 
 ------------------------------------------------------------------------
 
-## 🚀 Project Overview
+## Project Overview
 
 This project builds an intelligent **Decision Support Agent** for a
 Consumer Packaged Goods (CPG) business using:
 
--   📊 PySpark (Data Engineering)
--   🧪 What-If Simulation Modeling
--   🤖 Generative AI (Databricks GPT OSS)
--   🧠 Agentic AI (Tool Selection + Reasoning Loop)
--   💬 CLI-based Conversational Interface
--   ✅ Structured Testing Framework
+-   PySpark (Data Engineering)
+-   What-If Simulation Modeling
+-   Generative AI (Databricks GPT OSS)
+-   Agentic AI (Tool Selection + Reasoning Loop)
+-   CLI-based Conversational Interface
+-   Structured Testing Framework
 
 The system enables stakeholders to:
 
@@ -26,7 +26,7 @@ The system enables stakeholders to:
 
 ------------------------------------------------------------------------
 
-# 🏗 Architecture
+# Architecture
 
 Data Layer (Bronze → Silver → Gold)\
 ↓\
@@ -40,7 +40,7 @@ CLI Chatbot Interface
 
 ------------------------------------------------------------------------
 
-# 📊 Data Layer
+# Data Layer
 
 Synthetic dataset simulating:
 
@@ -54,9 +54,9 @@ Synthetic dataset simulating:
 
 ### Medallion Architecture
 
--   🥉 Bronze: Raw CSV ingestion\
--   🥈 Silver: Cleaned & transformed dataset\
--   🥇 Gold: Aggregated & business metrics
+-   Bronze: Raw CSV ingestion\
+-   Silver: Cleaned & transformed dataset\
+-   Gold: Aggregated & business metrics
 
 Tables Created:
 
@@ -67,24 +67,24 @@ Tables Created:
 
 ------------------------------------------------------------------------
 
-# 🔥 Simulation Engine
+# Simulation Engine
 
-### 1️⃣ Price Increase Simulation
+### Price Increase Simulation
 
 -   Elasticity-based demand adjustment
 -   Revenue impact calculation
 
-### 2️⃣ Promotion Uplift Simulation
+### Promotion Uplift Simulation
 
 -   Volume boost modeling
 -   Financial impact estimation
 
-### 3️⃣ Supply Shortage Simulation
+### Supply Shortage Simulation
 
 -   Inventory-constrained demand
 -   Revenue drop modeling
 
-### 4️⃣ Combined Strategy Simulation
+### Combined Strategy Simulation
 
 -   Multi-variable impact modeling
 
@@ -95,7 +95,7 @@ Example Output Structure:
 
 ------------------------------------------------------------------------
 
-# 🤖 Agentic AI Layer
+# Agentic AI Layer
 
 The agent:
 
@@ -107,7 +107,7 @@ The agent:
 
 ------------------------------------------------------------------------
 
-# 💬 CLI Interface
+# CLI Interface
 
 Run inside Databricks:
 
@@ -120,7 +120,7 @@ Assistant: Executive Summary + Revenue Impact + Strategy Recommendation
 
 ------------------------------------------------------------------------
 
-# 🧪 Testing Framework
+# Testing Framework
 
 Includes:
 
@@ -132,7 +132,7 @@ Includes:
 
 ------------------------------------------------------------------------
 
-# 🛠 Technologies Used
+# Technologies Used
 
 -   Python
 -   PySpark
@@ -142,7 +142,7 @@ Includes:
 
 ------------------------------------------------------------------------
 
-# 🎯 Business Value
+# Business Value
 
 -   Automated decision support
 -   Rapid scenario evaluation
@@ -151,7 +151,7 @@ Includes:
 
 ------------------------------------------------------------------------
 
-# 🌟 Final Note
+# Final Note
 
 This project demonstrates how GenAI + Agentic AI + Simulation + Data
 Engineering can combine to create a real-world intelligent business
